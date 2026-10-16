@@ -59,9 +59,12 @@ Curated open-source, self-hostable alternatives to popular paid apps and service
 
 | Paid | Open-source alternatives | Notes |
 |---|---|---|
-| [Adobe Photoshop](https://adobe.com/photoshop) | [GIMP](https://gitlab.gnome.org/GNOME/gimp), [Krita](https://invent.kde.org/graphics/krita) | |
+| [Adobe Photoshop](https://adobe.com/photoshop) | [PhotoCraft](https://github.com/storytold/photocraft), [GIMP](https://gitlab.gnome.org/GNOME/gimp), [Krita](https://invent.kde.org/graphics/krita) | ⚠️ PhotoCraft is in early alpha; opens and saves PSD |
+| [Adobe Illustrator](https://adobe.com/illustrator) | [VectorCraft](https://github.com/storytold/vectorcraft), [Inkscape](https://gitlab.com/inkscape/inkscape) | ⚠️ VectorCraft is in early alpha |
+| [Adobe Lightroom](https://adobe.com/lightroom) | [LightCraft](https://github.com/storytold/lightcraft), [darktable](https://github.com/darktable-org/darktable), [RawTherapee](https://github.com/Beep6581/RawTherapee) | ⚠️ LightCraft is in early alpha |
+| [Adobe InDesign](https://adobe.com/indesign) | [DesignCraft](https://github.com/storytold/designcraft), [Scribus](https://github.com/scribusproject/scribus) | ⚠️ DesignCraft is in early alpha |
 | Photoshop Generative Fill | [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion), [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 🖥️ |
-| [Midjourney](https://midjourney.com) / [DALL·E](https://openai.com/dall-e) | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) (Flux, SDXL) | 🖥️ |
+| [Midjourney](https://midjourney.com) / [DALL·E](https://openai.com/dall-e) | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) (Flux, SDXL), [ArtCraft](https://github.com/storytold/artcraft) | 🖥️ ⚠️ ArtCraft has no clearly stated license; hosted generation uses paid credits |
 | [Cleanup.pictures](https://cleanup.pictures) | [IOPaint](https://github.com/Sanster/IOPaint) | |
 | [Remove.bg](https://remove.bg) | [rembg](https://github.com/danielgatis/rembg) | |
 | [Topaz Photo AI](https://topazlabs.com) | [Upscayl](https://github.com/upscayl/upscayl), [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | |
@@ -73,6 +76,8 @@ Curated open-source, self-hostable alternatives to popular paid apps and service
 
 | Paid | Open-source alternatives | Notes |
 |---|---|---|
+| [Adobe Premiere Pro](https://adobe.com/premiere) | [FilmCraft](https://github.com/storytold/filmcraft), [Kdenlive](https://invent.kde.org/multimedia/kdenlive), [Shotcut](https://github.com/mltframework/shotcut) | ⚠️ FilmCraft is in early alpha; can't open .prproj |
+| [Adobe After Effects](https://adobe.com/aftereffects) | [EffectCraft](https://github.com/storytold/effectcraft), [Natron](https://github.com/NatronGitHub/Natron) | ⚠️ EffectCraft is in early alpha |
 | [Runway](https://runwayml.com) / [Kling](https://klingai.com) | [Wan](https://github.com/Wan-Video/Wan2.1), [HunyuanVideo](https://github.com/Tencent/HunyuanVideo), [LTX-Video](https://github.com/Lightricks/LTX-Video) | 🖥️ High VRAM |
 | [HeyGen](https://heygen.com) / [D-ID](https://d-id.com) | [LivePortrait](https://github.com/KwaiVGI/LivePortrait), [MuseTalk](https://github.com/TMElyralab/MuseTalk) | 🖥️ |
 | [Opus Clip](https://opus.pro) | [FunClip](https://github.com/modelscope/FunClip), [ClipsAI](https://github.com/ClipsAI/clipsai), [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | |
@@ -86,7 +91,7 @@ Curated open-source, self-hostable alternatives to popular paid apps and service
 | [DeepL](https://deepl.com) | [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | A local LLM also works well |
 | [Grammarly](https://grammarly.com) | [LanguageTool](https://github.com/languagetool-org/languagetool) | |
 | [Mathpix](https://mathpix.com) / PDF OCR | [Marker](https://github.com/VikParuchuri/marker), [MinerU](https://github.com/opendatalab/MinerU), [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | |
-| [Adobe Acrobat](https://adobe.com/acrobat) | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF), [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | |
+| [Adobe Acrobat](https://adobe.com/acrobat) | [PrintCraft](https://github.com/storytold/printcraft), [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF), [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | |
 
 ## Learning
 
